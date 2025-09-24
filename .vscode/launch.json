@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Debug GO",
+      "type": "go",
+      "request": "launch",
+      "mode": "debug",
+      "program": "${workspaceFolder}"
+    }
+  ]
+}
